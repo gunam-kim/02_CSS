@@ -1,5 +1,3 @@
-
-
 .box{
     width: 100px;
     height: 100px;
@@ -73,7 +71,7 @@
 .test3{
     margin: auto;
     /* text-align
-        요소 내부에 작성된 글자(또는 inline 요소)를 정렬하는 속성 
+        요소 내부에 작성된 글자(또는 inline 요소)를 정렬하는 속성
     */
     text-align: center;
 }
